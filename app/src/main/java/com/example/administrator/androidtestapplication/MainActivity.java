@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        Log.i("TAG","---111---");
+        Log.i("TAG","---22---");
         Log.i("TAG","---aaa11---");
         Log.i("TAG","---ccc---");
         Log.i("TAG","---ddd---");
