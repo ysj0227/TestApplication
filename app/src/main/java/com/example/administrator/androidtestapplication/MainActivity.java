@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("TAG","---sdfhdgdfjhgjkhgj---");
         Log.i("TAG","---爱你---");
         Toast.makeText(MainActivity.this, "aa", Toast.LENGTH_SHORT).show();
-        Log.i("TAG","---bb---");
+        Log.i("TAG","---aa---");
 
     }
 
