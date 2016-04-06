@@ -61,6 +61,13 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Log.i("TAG","------");
+            Log.i("TAG","------");
+            Log.i("TAG","------");
+            Log.i("TAG","------");
+            Log.i("TAG","---bbb---");
+            Log.i("TAG","---aaa---");
+            Log.i("TAG","---ccc---");
             return true;
         }
 
