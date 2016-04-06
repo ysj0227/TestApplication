@@ -29,7 +29,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.i("TAG","---aaa22---");
+
+        Log.i("TAG","---111---");
+        Log.i("TAG","---aaa---");
         Log.i("TAG","---ccc---");
         Log.i("TAG","---ddd---");
         Log.i("TAG","---ggg---");
