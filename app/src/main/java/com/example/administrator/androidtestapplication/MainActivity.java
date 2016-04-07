@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.i("TAG","---ccc---");
+        Log.i("TAG","---ccc---");
         Log.i("TAG","---ddd---");
         Log.i("TAG","---ggg---");
         Log.i("TAG","---tttt---");
